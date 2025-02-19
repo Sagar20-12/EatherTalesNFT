@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "avsc": "https://github.com/Bundlr-Network/avsc.git",
+    "avsc": "npm:@bundlr-network/avsc",
     "@bundlr-network/client": "^0.7.8",
     "@openzeppelin/contracts": "^4.7.3",
     "axios": "^1.0.0",
