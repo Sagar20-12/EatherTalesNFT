@@ -13,10 +13,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ba1a71f1-121a-46d5-8104-87c4741e7a56">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/04000949-232b-48f2-bb6c-4abcef498ae6">
+      <img src="![image](https://github.com/user-attachments/assets/c60e546f-080e-4fa3-a4b7-a6743b03fd14)
+">
     </td>
   </tr>
 </table>
