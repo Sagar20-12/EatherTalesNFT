@@ -1,4 +1,4 @@
-# DesiNFT - Create & Sell Your Own NFT!
+# EtherTales - Create & Sell Your Own NFT!
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9a562094-ab82-4ed3-a1b1-2b1556d44e51" height="300">
