@@ -10,13 +10,8 @@
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="![image](https://github.com/user-attachments/assets/c60e546f-080e-4fa3-a4b7-a6743b03fd14)">
-    </td>
-  </tr>
-</table>
+![image](https://github.com/user-attachments/assets/f88a57bc-4991-48d3-913e-c6c1d13bebe0)
+
 
 
 ### Installing 
