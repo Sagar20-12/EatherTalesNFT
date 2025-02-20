@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "avsc": "npm:@bundlr-network/avsc",
+    "16": "^0.0.2",
     "@bundlr-network/client": "^0.7.8",
     "@openzeppelin/contracts": "^4.7.3",
+    "avsc": "npm:@bundlr-network/avsc",
     "axios": "^1.0.0",
     "bignumber.js": "^9.1.0",
     "dotenv": "^16.0.3",

@@ -10,6 +10,7 @@ const Header = () => {
   const currentRoute = router.pathname;
 
   const [hasScrolled, setHasScrolled] = useState(false);
+  // Added consonant of the model
 
   const [addr, setAddr] = useState("");
 
